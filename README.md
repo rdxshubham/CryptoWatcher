@@ -38,4 +38,6 @@ Process Flow –
 •	Search for currency required, and click on Details, it will hit details api and fetch all the details relevant to that currency and it will also fetch in every 2 minutes the current data of selected cryptocurrency in USD.
 
 
+-Happy Coding
+
 Running with Docker - simply run docker-compose up
