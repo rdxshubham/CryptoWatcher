@@ -11,7 +11,7 @@ Flask
 Flask-Cors==3.0.3
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 multipledispatch==0.4.9
 networkx==2.0
