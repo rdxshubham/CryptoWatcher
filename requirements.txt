@@ -15,7 +15,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 multipledispatch==0.4.9
 networkx==2.0
-numpy==1.14.0
+numpy==1.22.0
 pandas==0.22.0
 psutil==5.4.3
 python-dateutil==2.6.1
